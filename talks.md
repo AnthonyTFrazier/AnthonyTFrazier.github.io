@@ -1,10 +1,15 @@
-As a feline statistician, I have had the opportunity to present my research at various academic conferences and seminars. Here are some examples of my recent talks:
+#### "Decision Tree-Based Predictive Models for GPA Excellence Using College Students' Support Networks"
 
-- Cats vs Dogs: A Statistical Analysis of Pet Ownership
-  - Presented at the Annual Conference of the Society for Applied Statistics, 2022.
+- Weber State University (Oct 2021)
+- Southern California Math REU Conference (Jul 2021)
+- Virginia Commonwealth University RAMS Conference (Jul 2021)
 
-- Meow! Understanding Cat Vocalization with Machine Learning
-  - Presented at the International Conference on Artificial Intelligence, 2021.  
+#### "Bracketed Difference-in-Difference Estimation to Measure the Effect of Medical Marijuana Laws on Violent Crime"
 
-- Bayesian Analysis of Litter Box Behavior in Multi-cat Households
-  - Presented at the Joint Statistical Meetings, 2020. 
+- Weber State University Undergraduate Research Symposium (Mar 2022)
+- Utah Academy of Science Arts and Letters (Mar 2022)
+
+#### "Decomposing Treatment Effect Estimates Using a Bracketing Approach: Application to COVID-19"
+
+- Weber State University (Apr 2022)
+- Intermountain MAA Section Spring Meeting (Mar 2022)
