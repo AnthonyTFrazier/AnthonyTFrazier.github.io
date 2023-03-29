@@ -1,15 +1,14 @@
-As a feline statistician, my research interests span a variety of topics related to cat behavior, health, and well-being. Below are some examples of my recent research projects:
+My recent publications are listed below:
 
-## A Bayesian Approach to Modeling Catnip Preference
+## Bracketed vs Standard Difference-in-Differences Estimation Methods with Data Analysis on Medical Marijuana Laws and Violent Crimes
+#### Journal of the Utah Academy of Sciences, Arts, & Letters (2022)
+#### Julian Chan, **Anthony Frazier**, Gavin Roberts
+##### https://www.utahacademy.org/wp-content/uploads/2023/03/JUASAL-2022-full-text-final.pdf
 
-- This study developed a Bayesian hierarchical model to better understand the individual and environmental factors that influence a cat's preference for catnip. Our results suggest that age, sex, and the presence of other cats in the household are important predictors of catnip preference.
-## DeepCAT: A Deep Learning Framework for Cat Image Classification
+Abstract: The difference-in-differences (DiD) estimator is a widely used tool for research in economics, political science, and public policy to evaluate the effects of public policy on a response variable. In this paper, we use simulations to compare the standard DiD estimator with the bracketed difference-in-differences (bDiD) approach of Hasegawa et al. (2019) that is robust to the existence of unobserved confounding variables in certain conditions. We highlight trade-offs between these approaches in a variety of cases that vary assumptions about the influence of confounding variables. We then apply both approaches in an analysis of the effect of medical marijuana legalization on violent crime. We do not find a negative effect of medical marijuana legalization on violent crime as some recent analyses have. We show that the context provided by our simulations is helpful in interpreting the results in this data application
 
-- This study proposed a deep learning framework called DeepCAT for automated classification of cat images. Our model achieved state-of-the-art performance on a benchmark dataset, demonstrating the potential of deep learning for cat-related image analysis.
-## Feline Regression Models for Mouse Hunting: A Comparative Study
+## Decision Tree-Based Predictive Models for GPA Excellence Using College Students' Support Networks
+#### Journal of Data Science (2021)
+#### **Anthony Frazier**, Joethi Silva, Rachel Meilak, David Chan, Indranil Sahoo, Michael Broda
+##### https://doi.org/10.6339/21-JDS1033
 
-- This study compared the performance of different regression models in predicting a cat's mouse hunting behavior. Our results showed that a Bayesian regression model with adaptive priors outperformed other models in terms of predictive accuracy.
-
-
-My research has been published in top-tier statistical and computational journals, including the Journal of the American Statistical Association and the Proceedings of the International Conference on Machine Learning. Please refer to my publications page for a complete list of my research articles.
-  
