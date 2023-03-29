@@ -1,5 +1,5 @@
 ---
-title: "Professor Whiskers"
+title: "Anthony Frazier"
 logo: catStat.png
 description:
 ---
